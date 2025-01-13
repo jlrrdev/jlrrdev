@@ -10,15 +10,9 @@
 
 ###
 
-<p align="left">🎓 Computer Science Student at UNIP - Universidade Paulista<br>👨‍💻 Full-Stack Developer Intern - Compass.UOL<br>📚 Currently studying Web Development</p>
-
-###
-
-<h3 align="center">Personal:</h3>
-
-###
-
 <p align="left">Currently 21 years old, I have always been passionate about technology. I taught myself how to use computers at the age of seven, and by the age of eight, I was already spending my time modifying games. At 18, I began my studies in Computer Science, and after spending about three years in the field of data, I decided to transition to Web Development at the age of 21.</p>
+
+<p align="center">🎓 Computer Science Student at UNIP - Universidade Paulista<br>👨‍💻 Full-Stack Developer Intern - Compass.UOL<br>📚 Currently studying Web Development</p>
 
 ###
 
